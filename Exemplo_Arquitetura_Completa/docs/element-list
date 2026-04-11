@@ -1,0 +1,11 @@
+com.example.JWT_RestAPI.application
+com.example.JWT_RestAPI.config
+com.example.JWT_RestAPI.controller
+com.example.JWT_RestAPI.dto
+com.example.JWT_RestAPI.enums
+com.example.JWT_RestAPI.exception
+com.example.JWT_RestAPI.facade
+com.example.JWT_RestAPI.model
+com.example.JWT_RestAPI.repository
+com.example.JWT_RestAPI.security
+com.example.JWT_RestAPI.service
